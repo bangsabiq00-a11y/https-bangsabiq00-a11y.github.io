@@ -1,2 +1,2 @@
-#bangsabiq00-a11y.github.io
+bangsabiq00-a11y.github.io
 Education
